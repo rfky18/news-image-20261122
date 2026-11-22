@@ -630,7 +630,7 @@ def render():
     dc = ("DATE CHECK — Left out on purpose, they are NOT 22 November news: Russia's 400-drone barrage "
           "(19–20 Nov) · Peru quake (Fri 20 Nov) · Shenzhen summit (19 Nov) · BepiColombo Mercury burn "
           "(Sat 21 Nov) · 'El Chapo Isidro' captured (Fri 20 Nov) · EU–Indonesia signing (Sat 21 Nov) · "
-          "Geneva killer-robot talks (ended Sat 21 Nov) · Gaza aid-van strike (Sat 21 Nov) · Kryvyi Rih "
+          "Kryvyi Rih "
           "strike (Fri night). Sparta II was struck Saturday — it stays ONLY because the ship was still "
           "burning at anchor off Finland on Sunday. Every story on this page happened, or was first "
           "reported, on Sunday 22 November 2026.")
